@@ -1,7 +1,7 @@
 # uilab-study
 Layout learning
 
-### package Install
+### Package install
 ```
 npm install -d
 ```
